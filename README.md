@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and collaborations 
 - 🌱 I’m currently learning MERN Stack and DSA
 - 💞️ I’m looking to collaborate on Open souce contributions
-- 📫 How to reach me ...
+- 📫 How to reach me harhwalia449@gmail.com
 
 <!---
 waliaharsh74/waliaharsh74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
+
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQFtclvgwWilPQ/profile-displaybackgroundimage-shrink_350_1400/0/1663016539159?e=1672876800&v=beta&t=81LBMQHBSJYFqeCdNSJSkK-LGQKfBPuh7muaW4Egndw" alt="waliaharsh74" height="300" width="4000" />
 <h1 align="center">Hi 👋, I'm Harsh Walia</h1>
-<!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="waliaharsh74" height="300" width="4000" /> -->
 
 <h3 align="center">An independent and self-motivated Undergraduate with proven and tested web development skills from India</h3>
 

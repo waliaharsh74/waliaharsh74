@@ -1,6 +1,6 @@
 
 <!-- <img align="center" src="\" alt="waliaharsh74" height="300" width="4000" /> -->
-<h1 align="center">Hi 👋, I'm Harsh Walia</h1>
+<h1 align="center">Radhe Radhe 🙏, I'm Harsh Walia</h1>
 
 <h3 align="center">An independent and self-motivated Undergraduate with proven and tested web development skills from India</h3>
 

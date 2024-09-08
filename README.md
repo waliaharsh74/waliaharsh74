@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waliaharsh74&show_icons=true&locale=en&layout=compact" alt="waliaharsh74" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waliaharsh74&show_icons=true&locale=en" alt="waliaharsh74" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waliaharsh74&" alt="waliaharsh74" /></p>
 

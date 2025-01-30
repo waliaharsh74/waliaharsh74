@@ -4,7 +4,7 @@
 
 <h3 align="center">An independent and self-motivated Undergraduate with proven and tested web development skills from India</h3>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Excalidraw with real time communication**
 
 - 🌱 I’m currently learning **Nextjs, DSA using Java**
 
